@@ -1,9 +1,9 @@
 # Guest Book (add message)
 
 ## Project Description
-This project is the development of Guest Book Website with Micro Frontend approach using Vue. The remote directory is the components provider and the host directory is the main website. So the remote provides shared components that can then be called and displayed on the page by the host. But the host also shares libraries needed by the remote such as vue-router.
+This project is the development of Guest Book Website with Micro Frontend approach using Vue + Vite and vite-plugin-federation(Module Federation). The remote directory is the components provider and the host directory is the main website. So the remote provides shared components that can then be called and displayed on the page by the host. But the host also shares libraries needed by the remote such as vue-router.
 
-Overall this project implement library such as vuex(state management), vue-router(routing), vue authentication(router auth), axios(API request), form handling, list rendering, indexeddb(store data in browser and offline behavior).
+Overall this project implement library such as vuex(state management), vue-router(routing), vue authentication(router auth), axios(API request), form handling, list rendering, indexeddb(store data in browser and offline behavior). Also using Tailwind CSS and DaisyUI for styling components.
 
 This Website is designed to allow Guests to login, logout, see messages and add message, in other hand allow Admin to login, logout, see messages and add guests.
 
