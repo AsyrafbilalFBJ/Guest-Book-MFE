@@ -7,6 +7,8 @@ Overall this project implement library such as vuex(state management), vue-route
 
 This Website is designed to allow Guests to login, logout, see messages and add message create, in other hand allow Admin to login, logout, see messages and add guests.
 
+The form that post data not actually post to the server because I'm using Fake REST API DummyJSON, so it won't display new data.
+
 ## Installation
 
 Clone this repository
