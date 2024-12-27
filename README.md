@@ -5,7 +5,7 @@ This project is the development of Guest Book Website with Micro Frontend approa
 
 Overall this project implement library such as vuex(state management), vue-router(routing), vue authentication(router auth), axios(API request), form handling, list rendering, indexeddb(store data in browser and offline behavior).
 
-This Website is designed to allow Guests to login, logout, see messages and add message create, in other hand allow Admin to login, logout, see messages and add guests.
+This Website is designed to allow Guests to login, logout, see messages and add message, in other hand allow Admin to login, logout, see messages and add guests.
 
 The form that post data not actually post to the server because I'm using Fake REST API DummyJSON, so it won't display new data.
 
