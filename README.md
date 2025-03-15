@@ -35,6 +35,12 @@ In /host directory
     
 Open http://localhost:8001/ in browser.
 
-login with:
+
+login with admin:
 username: 'emilys',
 password: 'emilyspass',
+
+
+login with user:
+username: "averyp",
+password: "averyppass",
