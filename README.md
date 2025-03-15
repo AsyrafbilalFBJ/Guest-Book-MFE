@@ -34,3 +34,7 @@ In /host directory
 ```
     
 Open http://localhost:8001/ in browser.
+
+login with:
+username: 'emilys',
+password: 'emilyspass',
